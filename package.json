@@ -1,0 +1,23 @@
+{
+  "name": "profile-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdavies2857/Profile-2.git"
+  },
+  "author": "Michael Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdavies2857/Profile-2/issues"
+  },
+  "homepage": "https://github.com/mdavies2857/Profile-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1"
+  }
+}
